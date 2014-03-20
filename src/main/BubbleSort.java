@@ -3,6 +3,16 @@ package main;
 import java.util.Arrays;
 import java.util.LinkedList;
 
+/**
+ * This class demonstrates the bubblesort turing machine.
+ * 
+ * usage: run with command line arguments from the alphabet {a, b, c}:
+ * 
+ * -> java main/BubbleSort c b a c b a c b a 
+ * 
+ * @author Baste
+ * 
+ */
 public class BubbleSort {
 
 	public static void main(String[] args) {
